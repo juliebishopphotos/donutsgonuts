@@ -1,0 +1,40 @@
+body{
+    background-color:cornflowerblue;
+}
+
+/* 1 */
+.donuts1{
+    background-color: pink;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 80px;
+}
+
+li{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+/*rule-set #1: All the li items within the donut1 will have a purple font. */
+.donuts1 li{
+    color: purple;
+}
+
+.donuts1{
+    width: 400px;
+    height: 400px;
+}
+
+h2{
+    background-color: rebeccapurple;
+}
+
+p{
+    height: 50px;
+    background: coral;
+    border: 3px solid pink;
+    margin: 0px 0px 0px 0px;
+}
+
